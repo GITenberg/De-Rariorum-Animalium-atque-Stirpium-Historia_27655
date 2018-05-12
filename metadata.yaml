@@ -1,0 +1,43 @@
+_repo: De-Rariorum-Animalium-atque-Stirpium-Historia_27655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caius, John
+    aliases:
+    - Caius, Iohannes
+    - Keye, John
+    - Kay, John
+    - Key, John
+    - Kaye, John
+    - Cay, John
+    - Keys, John
+    - Kees, John
+    birthdate: 1510
+    deathdate: 1573
+    gutenberg_agent_id: '32107'
+    url: http://www.gutenberg.org/2009/agents/32107
+    wikipedia: http://en.wikipedia.org/wiki/John_Caius
+  editor:
+    agent_name: Roberts, E. S. (Ernest Stewart)
+    alias: Roberts, Ernest Stewart
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '32108'
+    url: http://www.gutenberg.org/2009/agents/32108
+description: ''
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27655'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology -- Pre-Linnaean works'
+- !lcc 'QL'
+title: De Rariorum Animalium atque Stirpium Historia
+url: http://www.gutenberg.org/ebooks/27655
